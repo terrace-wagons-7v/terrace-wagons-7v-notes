@@ -1,6 +1,6 @@
-# Reading — day 281
+# Log — day 281
 
-- reviewed sql notes
-- outlined a design
-- next: read docs
-- seed: 2398c874
+- reviewed typescript notes
+- cleaned up a checklist
+- next: write tests
+- seed: 33ee20aa
