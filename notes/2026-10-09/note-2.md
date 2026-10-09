@@ -1,6 +1,6 @@
-# Todo — day 282
+# Reading — day 282
 
-- reviewed typescript notes
-- outlined a script
+- reviewed algorithms notes
+- outlined a design
 - next: benchmark
-- seed: 68c80bd1
+- seed: 32f51d2f
